@@ -1,9 +1,9 @@
-import funciones_basicas
-import funciones_math
-import funciones_trigonometricas
-import funciones_hiperbolicas
-import funciones_constantes
-import funciones_avanzadas
+import DYLAN_PARRA.funciones_basicas as funciones_basicas
+import DYLAN_PARRA.funciones_math as funciones_math
+import DYLAN_PARRA.funciones_trigonometricas as funciones_trigonometricas
+import DYLAN_PARRA.funciones_hiperbolicas as funciones_hiperbolicas
+import DYLAN_PARRA.funciones_constantes as funciones_constantes
+import DYLAN_PARRA.funciones_avanzadas as funciones_avanzadas
 
 def menu_principal():
     while True:
